@@ -1,0 +1,12 @@
+{
+  "title": "athena-compound: Compound screening interfaces and ranking",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Socodato, Renato"
+    }
+  ],
+  "license": "mit",
+  "version": "0.1.0rc4",
+  "description": "Software release candidate. Compound screening interfaces and ranking. Synthetic examples; see README and INPUTS for assumptions and validation limits."
+}
